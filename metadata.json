@@ -4,7 +4,7 @@
     "dependencies": ["pandas", "numpy","cryptography"],
 
     "keywords": ["data anonymization", "data scrubbing", "data perturbation"],
-    "methodology": ["Data exploration and transformation],
+    "methodology": ["Data exploration and transformation"],
 
     "description": "Anonymization of individual columns within a dataset with transformations (mapping, encoding, perturbation, etc.)",
     "author": "David Lorien Ara Sanz, Daniel Wang",
